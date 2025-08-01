@@ -1,0 +1,7 @@
+WhatWeb is not installed and is missing dependencies.
+The following gems are missing:
+ - addressable
+
+To install run the following command from the WhatWeb folder:
+'bundle install'
+

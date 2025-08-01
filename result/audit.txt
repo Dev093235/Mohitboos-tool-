@@ -1,0 +1,5 @@
+DNS: 0.346719
+Connect: 0.414152
+TTFB: 0.765086
+Total: 0.765369
+content-security-policy: upgrade-insecure-requests

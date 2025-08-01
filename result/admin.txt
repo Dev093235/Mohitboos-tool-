@@ -1,0 +1,5 @@
+https://bluebirddigitals.com/admin => 302
+https://bluebirddigitals.com/login => 302
+https://bluebirddigitals.com/wp-admin => 301
+https://bluebirddigitals.com/wp-login.php => 200
+https://bluebirddigitals.com/adminpanel => 404
